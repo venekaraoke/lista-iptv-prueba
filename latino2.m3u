@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1,--- LISTA GRATIS achoapps.com
-http://www.achotv.com
-#EXTINF:-1,--- Visita www.achoapps.com ---
+
+
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/13max.png" group-title="Entretenimiento", 13 MAX (Argentina)
 http://coninfo.net:1935/13maxhd/live_720p/.m3u8
@@ -150,7 +150,7 @@ http://kissfm-cires21-video.secure.footprint.net/hittv/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xWYteYe.png" group-title="MEXICO", Ingenio TV | SD
 http://live10.cdnmedia.tv/dgtvelive/smil:ingen30.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="España", La 2
+#EXTINF:-1 tvg-logo="" group-title="EspaÃ±a", La 2
 http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/la2_lv3_aosv4_gl0/la2_lv3_aosv4_gl0.isml/la2_lv3_aosv4_gl0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oiW6vgk.jpg" group-title="ARGENTINA", Litus | HD
@@ -327,7 +327,7 @@ http://ssai-apac.ooyala.com/hls/delta/CFLIVE/out/u/ezye7lz7hql35/107829/xkbjFrZj
 #EXTINF:-1 tvg-logo="" group-title="", TVN Panama
 http://ssai-apac.ooyala.com/hls/delta/CFLIVE/out/u/ezye7lz7hql35/107829/JlbDRrZjE6JBi2W0IpB3pRbFcNpyNh5W/cn/34ee71d50185402b81af1ebb43af1706.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/f41IHoB.png" group-title="CHILE", TVN Señal de Pruebas | HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/f41IHoB.png" group-title="CHILE", TVN SeÃ±al de Pruebas | HD
 http://mdstrm.com/live-stream-playlist-v/53443c472c6e89675103cc4c.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Entretenimiento", TVP Los Mochis
